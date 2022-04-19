@@ -63,7 +63,7 @@
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk just ping me 😉.
 
 <a href="mailto:tricixg@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/tricixg/tricixg/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/tricixg/tricixg/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/triciagxh/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/tricixg/tricixg/blob/master/assets/icons/linkedin.png" />
