@@ -27,6 +27,7 @@
 - ✨ Bouldering
 - ✨ Badminton (Neighbourhood Professional)
 
+### Fun Fact: I have a white Pomeranian named Cookie
 </br>
 </br>
 </br>
