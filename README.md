@@ -47,7 +47,7 @@
 <img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/r@2x.png" alt="r@2x"  width="120" hight="50">
 </br>
 <img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="120" hight="50">
-<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/intellij.png" alt="intellij" width="120" hight="50">
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/intellij.png" alt="intellij" width="170" hight="80">
 <img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/rsoftware.png" alt="rsoftware"  width="120" hight="50">
 </br>
 <img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/pc.png" alt="pc" width="120" hight="50">
