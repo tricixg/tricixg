@@ -94,6 +94,9 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=tricixg&&show_icons=true&theme=radical"/>
+   <p align="right"> <h3>Profile Views : <img src="https://komarev.com/ghpvc/?username=tricixg-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="tricixg-pw" /> 
+  </p>
   </a>
   </p>
 
