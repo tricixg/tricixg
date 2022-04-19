@@ -44,7 +44,7 @@
 <img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/java.png" alt="java"  width="120" hight="50">
 <img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/js.png" alt="js" width="120" hight="50">
 <img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/html.png" alt="html"  width="120" hight="50">
-<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/r@2x.png" alt="r@2x"  width="120" hight="50">
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/r@2x.png" alt="r@2x"  width="80" hight="30">
 </br>
 <img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="170" hight="80">
 <img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/intellij.png" alt="intellij" width="170" hight="80">
