@@ -1,7 +1,7 @@
 # Hello 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/tricixg/tricixg/giphy.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/tricixg/tricixg/blob/main/assets/giphy.gif">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - I'm 19 years old Computer Scientist From the National University Of Singapore
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/tricixg/tricixg/hello.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/tricixg/tricixg/blob/main/assets/hello.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
@@ -59,8 +59,6 @@
 <img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/security.png" alt="security" width="100" hight="50">
 <img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/ai.png" alt="ai" width="100" hight="50">
 </p>
-</br>
-</br>
 </br>
 
 
