@@ -39,13 +39,25 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/tricixg/tricixg/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/tricixg/tricixg/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/js.png" alt="js" width="120" hight="50">
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/html.png" alt="html"  width="100" hight="50">
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/r@2x.png" alt="r@2x"  width="100" hight="50">
 </br>
-<img src="https://github.com/tricixg/tricixg/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/intellij.png" alt="intellij" width="240" hight="50">
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/rsoftware.png" alt="rsoftware"  width="100" hight="50">
 </br>
-<img src="https://github.com/tricixg/tricixg/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/tricixg/tricixg/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/chrome.png" alt="chrome" width="100" hight="50">
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/office_365.png" alt="office_365" width="100" hight="50">
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/web.png" alt="web" width="100" hight="50">
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/mobile@2x.png" alt="mobile@2x" width="100" hight="50">
+</br>
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/security.png" alt="security" width="100" hight="50">
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/ai.png" alt="ai" width="100" hight="50">
 </p>
 </br>
 </br>
@@ -66,7 +78,14 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/tricixg/tricixg/blob/main/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/triciagxh/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/tricixg/tricixg/blob/master/assets/icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/tricixg/tricixg/blob/main/assets/icons/linkedin.png" />
+ </a>
+ <a href="https://www.youtube.com/c/Tricixg">
+  <img align="left" alt="Youtube" width="150" hight="100" src="https://github.com/tricixg/tricixg/blob/main/assets/icons/youtube.png" />
+ </a>
+  <a href="https://twitter.com/tricixg">
+  <img align="left" alt="Twitter" width="150" hight="100" src="https://github.com/tricixg/tricixg/blob/main/assets/icons/twitter.png" />
+ </a>
 </br>
 </br>
 </br>
