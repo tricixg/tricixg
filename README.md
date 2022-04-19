@@ -41,7 +41,7 @@
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/java.png" alt="java"  width="120" hight="50">
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/java.png" alt="java"  width="100" hight="50">
 <img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/js.png" alt="js" width="120" hight="50">
 <img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/html.png" alt="html"  width="120" hight="50">
 <img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/r@2x.png" alt="r@2x"  width="80" hight="30">
