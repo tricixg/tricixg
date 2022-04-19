@@ -58,7 +58,7 @@
 <img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/mobile@2x.png" alt="mobile@2x" width="120" hight="50">
 </br>
 <img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/security.png" alt="security" width="120" hight="50">
-<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/ai.png" alt="ai" width="120" hight="50">
+<img src="https://github.com/tricixg/tricixg/blob/main/assets/icons/ai.png" alt="ai" width="80" hight="30">
 </p>
 </br>
 
