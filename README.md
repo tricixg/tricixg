@@ -9,7 +9,7 @@
 
 # About ME 💬 :
 
-### - I'm 19 years old Computer Scientist from the National University Of Singapore
+### - I'm 20 years old Computer Scientist from the National University Of Singapore
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/tricixg/tricixg/blob/main/assets/hello.gif">
 
